@@ -1,0 +1,2 @@
+# This file exists to ensure the deployments/ directory is tracked by Git
+# Deployment JSON files will be placed here when contracts are deployed
